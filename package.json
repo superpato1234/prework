@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/superpato1234/prework/issues"
   },
-  "homepage": "https://github.com/superpato1234/prework#readme"
+  "homepage": "https://github.com/superpato1234/prework#readme",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
 }
